@@ -1,7 +1,3 @@
-import io
-from typing import Iterable
-
-import pytest
 import requests
 
 SESSION = requests.Session()
